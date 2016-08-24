@@ -2,6 +2,8 @@
 
 
 int main()
+//Written by Skipperzip
+
 {
 	int a = 0;
 	int b = 0;
